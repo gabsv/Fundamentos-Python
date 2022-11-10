@@ -40,7 +40,7 @@ code . # abre o VSCode
 
 Para criar e ativar o *ambiente virtual conda*, acesse o nosso [tutorial](https://labriunesp.org/docs/projetos/ensino/ambiente/conda) no site do **LabRI/UNESP**
 
-O arquivo *environment yml* deve conter as seguinte bibliotecas
+Nesse caso, o arquivo *environment yml* deve conter as seguinte bibliotecas
 
 ```
 name: env_gabriela
